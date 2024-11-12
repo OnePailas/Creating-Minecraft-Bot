@@ -3,7 +3,7 @@ from javascript import require, On, Once, AsyncTask, off, on
 mineflayer = require('mineflayer')
 
 bot = mineflayer.createBot({
-    'host': 'NeMe08.aternos.me',
+    'host': 'adress',
     'username': 'Nqowdown',
     'version': '1.8.9'
 })
